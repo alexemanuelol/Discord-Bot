@@ -12,3 +12,10 @@ Run the following to setup the python environment:
 
     $ pip install -r requirements.txt
 
+## Sources
+
+[Python wrapper for the Discord API](https://pypi.org/project/discord.py/)
+
+[API reference](https://discordpy.readthedocs.io/en/latest/api.html)
+
+[Examples](https://github.com/Rapptz/discord.py/tree/v1.7.1/examples)
